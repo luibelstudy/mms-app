@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mms-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/mms-app/static/js/main.7b29b764.chunk.js",
-    "main.js.map": "/mms-app/static/js/main.7b29b764.chunk.js.map",
-    "runtime-main.js": "/mms-app/static/js/runtime-main.042cce13.js",
-    "runtime-main.js.map": "/mms-app/static/js/runtime-main.042cce13.js.map",
-    "static/js/2.62907532.chunk.js": "/mms-app/static/js/2.62907532.chunk.js",
-    "static/js/2.62907532.chunk.js.map": "/mms-app/static/js/2.62907532.chunk.js.map",
-    "static/js/3.7a4374dd.chunk.js": "/mms-app/static/js/3.7a4374dd.chunk.js",
-    "static/js/3.7a4374dd.chunk.js.map": "/mms-app/static/js/3.7a4374dd.chunk.js.map",
-    "index.html": "/mms-app/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/mms-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.62907532.chunk.js.LICENSE.txt": "/mms-app/static/js/2.62907532.chunk.js.LICENSE.txt"
+    "main.css": "/idatabank/mms-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/idatabank/mms-app/static/js/main.7b29b764.chunk.js",
+    "main.js.map": "/idatabank/mms-app/static/js/main.7b29b764.chunk.js.map",
+    "runtime-main.js": "/idatabank/mms-app/static/js/runtime-main.2f3e868e.js",
+    "runtime-main.js.map": "/idatabank/mms-app/static/js/runtime-main.2f3e868e.js.map",
+    "static/js/2.62907532.chunk.js": "/idatabank/mms-app/static/js/2.62907532.chunk.js",
+    "static/js/2.62907532.chunk.js.map": "/idatabank/mms-app/static/js/2.62907532.chunk.js.map",
+    "static/js/3.7a4374dd.chunk.js": "/idatabank/mms-app/static/js/3.7a4374dd.chunk.js",
+    "static/js/3.7a4374dd.chunk.js.map": "/idatabank/mms-app/static/js/3.7a4374dd.chunk.js.map",
+    "index.html": "/idatabank/mms-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/idatabank/mms-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.62907532.chunk.js.LICENSE.txt": "/idatabank/mms-app/static/js/2.62907532.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.042cce13.js",
+    "static/js/runtime-main.2f3e868e.js",
     "static/js/2.62907532.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.7b29b764.chunk.js"
